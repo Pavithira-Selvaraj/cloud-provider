@@ -1,1 +1,4 @@
-I love to learn amazon web services
+I love to learn amazon web services.
+More than 200 services.
+1.Elastic compute cloud(EC2)
+2.Identity access management(IAM)
